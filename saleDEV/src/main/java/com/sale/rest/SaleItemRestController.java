@@ -20,7 +20,7 @@ import com.sale.service.SaleItemService;
 
 
 @RestController
-@RequestMapping("/api/sale")
+@RequestMapping("/api")
 public class SaleItemRestController {
 
 	@Autowired
